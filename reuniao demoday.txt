@@ -1,0 +1,69 @@
+bloco de notas 
+
+spring boot
+
+timelift
+
+poco
+
+
+comunicação é imprescindível. Cuidem separadamente
+
+acessibilidade em geral
+
+conheça mais sobre o projeto, tenha propriedade do assunto.
+
+criação de stand com figma
+
+Identidade Visual
+	-Contraste, 
+Oracle Analytics, e Power BI
+
+
+
+usar dados da geolocalização para serem trabalhados pela machine learning.
+
+usar dados para relacionar promoções, melhores compras etc...
+
+responsividade pro mobile
+
+
+
+
+
+
+
+
+
+NextGS - framwork para geolocalização
+
+weame
+
+sql 
+
+postgree (testagem de API) post - pull. 
+
+
+
+
+pense: nem todo mundo vai ter conhecimento sobre a base de gestão financeira. Dê acessiblidade para essas pessoas.
+
+1- Sustentabilidade e Lucros no Site,2- Escala,3- Inclusão.
+
+1- Planos de mensalidade. Visão de futuro e como chegar lá. Artigos, planos de mensalidades.
+
+
+
+
+
+
+
+
+foca no principal, divida o que é bom fazer e se
+
+
+
+
+
+
+
